@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class calculoMedia {
 
 	public static void main(String[] args) {
+		
+		//comentario para atualizacao
+		
 		Scanner entrada = new Scanner(System.in);
 		
 		double nota1, nota2, nota3, media;
